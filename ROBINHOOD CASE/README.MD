@@ -69,10 +69,9 @@ This repository contains a **data-driven analysis of Robinhood’s response to t
 ---
 
 ##  Repository Contents
-- `report/ROBINHOOD CASE STUDY.pdf` → Student analysis  
-- `case/robinhood_case_study.pdf` → Original DecisionPro case  
-- `README.md` → This file  
-- `notebooks/` → Placeholder for text mining scripts (Python/R)  
+- `ROBINHOOD CASE STUDY REPORT.pdf` → Contains my analysis and findings of this case study  
+- `CASE STUDY.pdf` → Contains the original case study and scenario 
+- `README.md` → This file    
 
 ---
 
