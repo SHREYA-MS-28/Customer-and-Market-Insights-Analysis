@@ -77,9 +77,8 @@ Python Logistics operates a mixed fleet:
 ---
 
 ##  Repository Contents
-- `report/CUSTOMER LIFETIME VALUE STRATEGY.pdf` → Full report  
-- `data/` → Placeholder for customer order & revenue data (if included)  
-- `notebooks/` → Future implementation in Python/R (RFM, choice models, CLV calculation)  
+- `report/CUSTOMER LIFETIME VALUE STRATEGY REPORT.pdf` → Full report  
+- `CLV CASE STUDY` → Contains the questions and scenario of the case study    
 - `README.md` → This file  
 
 ---
